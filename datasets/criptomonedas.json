@@ -1,0 +1,1706 @@
+[
+    {
+        "Token": "hdx",
+        "Nombre": "HydraDX",
+        "Market cap.": 34126974,
+        "Price": 0.01299641,
+        "Clase": 4,
+        "gecko_id": "hydradx"
+    },
+    {
+        "Token": "ulx",
+        "Nombre": "Ultron",
+        "Market cap.": 0.0,
+        "Price": 0.066202,
+        "Clase": 4,
+        "gecko_id": "ultron"
+    },
+    {
+        "Token": "del",
+        "Nombre": "DSC",
+        "Market cap.": 32679661,
+        "Price": 0.00383729,
+        "Clase": 4,
+        "gecko_id": "decimal"
+    },
+    {
+        "Token": "icp",
+        "Nombre": "ICP",
+        "Market cap.": 5961366278,
+        "Price": 12.89,
+        "Clase": 4,
+        "gecko_id": "internet-computer"
+    },
+    {
+        "Token": "erowan",
+        "Nombre": "Sifchain",
+        "Market cap.": 105949,
+        "Price": 1.196e-05,
+        "Clase": 4,
+        "gecko_id": "sifchain"
+    },
+    {
+        "Token": "ela",
+        "Nombre": "Elastos",
+        "Market cap.": 68082274,
+        "Price": 3.09,
+        "Clase": 4,
+        "gecko_id": "elastos"
+    },
+    {
+        "Token": "kava",
+        "Nombre": "Kava",
+        "Market cap.": 694293583,
+        "Price": 0.640733,
+        "Clase": 4,
+        "gecko_id": "kava"
+    },
+    {
+        "Token": "pls",
+        "Nombre": "PulseChain",
+        "Market cap.": 0.0,
+        "Price": 6.397e-05,
+        "Clase": 4,
+        "gecko_id": "pulsechain"
+    },
+    {
+        "Token": "rss3",
+        "Nombre": "RSS3",
+        "Market cap.": 223050640,
+        "Price": 0.330639,
+        "Clase": 0,
+        "gecko_id": "rss3"
+    },
+    {
+        "Token": "stars",
+        "Nombre": "Stargaze",
+        "Market cap.": 45503344,
+        "Price": 0.01824903,
+        "Clase": 4,
+        "gecko_id": "stargaze"
+    },
+    {
+        "Token": "waxp",
+        "Nombre": "Wax",
+        "Market cap.": 213720288,
+        "Price": 0.062137,
+        "Clase": 1,
+        "gecko_id": "wax"
+    },
+    {
+        "Token": "zkl",
+        "Nombre": "zkLink",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "zklink"
+    },
+    {
+        "Token": "oas",
+        "Nombre": "Oasys",
+        "Market cap.": 111120254,
+        "Price": 0.060243,
+        "Clase": 1,
+        "gecko_id": "oasys"
+    },
+    {
+        "Token": "grv",
+        "Nombre": "Grove",
+        "Market cap.": 4239926,
+        "Price": 0.057228,
+        "Clase": 4,
+        "gecko_id": "grove"
+    },
+    {
+        "Token": "zeta",
+        "Nombre": "ZetaChain",
+        "Market cap.": 277807015,
+        "Price": 1.18,
+        "Clase": 4,
+        "gecko_id": "zetachain"
+    },
+    {
+        "Token": "algo",
+        "Nombre": "Algorand",
+        "Market cap.": 1442614342,
+        "Price": 0.176977,
+        "Clase": 4,
+        "gecko_id": "algorand"
+    },
+    {
+        "Token": "swth",
+        "Nombre": "Carbon",
+        "Market cap.": 10871395,
+        "Price": 0.00631839,
+        "Clase": 4,
+        "gecko_id": "switcheo"
+    },
+    {
+        "Token": "brise",
+        "Nombre": "Bitgert",
+        "Market cap.": 59089936,
+        "Price": 1.49296e-07,
+        "Clase": 4,
+        "gecko_id": "bitrise-token"
+    },
+    {
+        "Token": "waves",
+        "Nombre": "Waves",
+        "Market cap.": 221088493,
+        "Price": 2.21,
+        "Clase": 4,
+        "gecko_id": "waves"
+    },
+    {
+        "Token": null,
+        "Nombre": "Echelon",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "echelon"
+    },
+    {
+        "Token": "new",
+        "Nombre": "Newton",
+        "Market cap.": 0.0,
+        "Price": 7.632e-05,
+        "Clase": 4,
+        "gecko_id": "newton-project"
+    },
+    {
+        "Token": "vite",
+        "Nombre": "Vite",
+        "Market cap.": 23344870,
+        "Price": 0.02140374,
+        "Clase": 4,
+        "gecko_id": "vite"
+    },
+    {
+        "Token": "intr",
+        "Nombre": "Interlay",
+        "Market cap.": 4822617,
+        "Price": 0.03182393,
+        "Clase": 4,
+        "gecko_id": "interlay"
+    },
+    {
+        "Token": "kint",
+        "Nombre": "Kintsugi",
+        "Market cap.": 1733907,
+        "Price": 0.762274,
+        "Clase": 4,
+        "gecko_id": "kintsugi"
+    },
+    {
+        "Token": "one",
+        "Nombre": "Harmony",
+        "Market cap.": 219868935,
+        "Price": 0.01789237,
+        "Clase": 4,
+        "gecko_id": "harmony"
+    },
+    {
+        "Token": "area",
+        "Nombre": "Areon Network",
+        "Market cap.": 14762167,
+        "Price": 0.121355,
+        "Clase": 4,
+        "gecko_id": "areon-network"
+    },
+    {
+        "Token": "walv",
+        "Nombre": "ALV",
+        "Market cap.": 1498320,
+        "Price": 0.0128213,
+        "Clase": 4,
+        "gecko_id": "alvey-chain"
+    },
+    {
+        "Token": "kub",
+        "Nombre": "Bitkub",
+        "Market cap.": 166937847,
+        "Price": 1.88,
+        "Clase": 4,
+        "gecko_id": "bitkub-coin"
+    },
+    {
+        "Token": "ccd",
+        "Nombre": "Concordium",
+        "Market cap.": 43317921,
+        "Price": 0.00462826,
+        "Clase": 4,
+        "gecko_id": "concordium"
+    },
+    {
+        "Token": "fxtl",
+        "Nombre": "Fraxtal",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "fraxtal"
+    },
+    {
+        "Token": "hbar",
+        "Nombre": "Hedera",
+        "Market cap.": 3374283856,
+        "Price": 0.094478,
+        "Clase": 4,
+        "gecko_id": "hedera-hashgraph"
+    },
+    {
+        "Token": "zil",
+        "Nombre": "Zilliqa",
+        "Market cap.": 414820598,
+        "Price": 0.02262873,
+        "Clase": 4,
+        "gecko_id": "zilliqa"
+    },
+    {
+        "Token": "xlm",
+        "Nombre": "Stellar",
+        "Market cap.": 3108979623,
+        "Price": 0.107624,
+        "Clase": 4,
+        "gecko_id": "stellar"
+    },
+    {
+        "Token": "atom",
+        "Nombre": "CosmosHub",
+        "Market cap.": 3317209151,
+        "Price": 8.49,
+        "Clase": 4,
+        "gecko_id": "cosmos"
+    },
+    {
+        "Token": "kar",
+        "Nombre": "Karura",
+        "Market cap.": 13215321,
+        "Price": 0.125952,
+        "Clase": 4,
+        "gecko_id": "karura"
+    },
+    {
+        "Token": null,
+        "Nombre": "RENEC",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "renec"
+    },
+    {
+        "Token": "flr",
+        "Nombre": "Flare",
+        "Market cap.": 1116919926,
+        "Price": 0.02880797,
+        "Clase": 4,
+        "gecko_id": "flare-networks"
+    },
+    {
+        "Token": "cro",
+        "Nombre": "Cronos",
+        "Market cap.": 3510315550,
+        "Price": 0.131146,
+        "Clase": 4,
+        "gecko_id": "crypto-com-chain"
+    },
+    {
+        "Token": null,
+        "Nombre": "Lamden",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "lamden"
+    },
+    {
+        "Token": "fra",
+        "Nombre": "Findora",
+        "Market cap.": 8175020,
+        "Price": 0.00070565,
+        "Clase": 4,
+        "gecko_id": "findora"
+    },
+    {
+        "Token": "pg",
+        "Nombre": "Pego",
+        "Market cap.": 0.0,
+        "Price": 0.329698,
+        "Clase": 4,
+        "gecko_id": "pego-network-2"
+    },
+    {
+        "Token": "$muu",
+        "Nombre": "MUUCHAIN",
+        "Market cap.": 0.0,
+        "Price": 1.01126e-07,
+        "Clase": 4,
+        "gecko_id": "muu-inu"
+    },
+    {
+        "Token": "sui",
+        "Nombre": "Sui",
+        "Market cap.": 2659531335,
+        "Price": 1.14,
+        "Clase": 4,
+        "gecko_id": "sui"
+    },
+    {
+        "Token": "kai",
+        "Nombre": "Kardia",
+        "Market cap.": 18531026,
+        "Price": 0.00388094,
+        "Clase": 4,
+        "gecko_id": "kardiachain"
+    },
+    {
+        "Token": "manta",
+        "Nombre": "Manta",
+        "Market cap.": 423170474,
+        "Price": 1.69,
+        "Clase": 4,
+        "gecko_id": "manta-network"
+    },
+    {
+        "Token": "kda",
+        "Nombre": "Kadena",
+        "Market cap.": 232617924,
+        "Price": 0.849625,
+        "Clase": 4,
+        "gecko_id": "kadena"
+    },
+    {
+        "Token": "xprt",
+        "Nombre": "Persistence",
+        "Market cap.": 54158650,
+        "Price": 0.269215,
+        "Clase": 4,
+        "gecko_id": "persistence"
+    },
+    {
+        "Token": "cet",
+        "Nombre": "CSC",
+        "Market cap.": 109192270,
+        "Price": 0.03790015,
+        "Clase": 4,
+        "gecko_id": "coinex-token"
+    },
+    {
+        "Token": "fil",
+        "Nombre": "Filecoin",
+        "Market cap.": 3064359061,
+        "Price": 5.61,
+        "Clase": 4,
+        "gecko_id": "filecoin"
+    },
+    {
+        "Token": "boot",
+        "Nombre": "Bostrom",
+        "Market cap.": 14074797,
+        "Price": 2.3692e-08,
+        "Clase": 0,
+        "gecko_id": "bostrom"
+    },
+    {
+        "Token": "tomb",
+        "Nombre": "Tombchain",
+        "Market cap.": 2159297,
+        "Price": 0.00698271,
+        "Clase": 4,
+        "gecko_id": "tomb"
+    },
+    {
+        "Token": "btt",
+        "Nombre": "Bittorrent",
+        "Market cap.": 1149360151,
+        "Price": 1.19e-06,
+        "Clase": 4,
+        "gecko_id": "bittorrent"
+    },
+    {
+        "Token": "osmo",
+        "Nombre": "Osmosis",
+        "Market cap.": 554695181,
+        "Price": 0.844075,
+        "Clase": 4,
+        "gecko_id": "osmosis"
+    },
+    {
+        "Token": "fx",
+        "Nombre": "FunctionX",
+        "Market cap.": 102015393,
+        "Price": 0.142647,
+        "Clase": 4,
+        "gecko_id": "fx-coin"
+    },
+    {
+        "Token": "ring",
+        "Nombre": "Darwinia",
+        "Market cap.": 6668643,
+        "Price": 0.00373922,
+        "Clase": 4,
+        "gecko_id": "darwinia-network-native-token"
+    },
+    {
+        "Token": "imx",
+        "Nombre": "Immutable zkEVM",
+        "Market cap.": 2881977287,
+        "Price": 1.98,
+        "Clase": 1,
+        "gecko_id": "immutable-x"
+    },
+    {
+        "Token": "vic",
+        "Nombre": "Viction",
+        "Market cap.": 68665506,
+        "Price": 0.699045,
+        "Clase": 4,
+        "gecko_id": "tomochain"
+    },
+    {
+        "Token": "kro",
+        "Nombre": "Kroma",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "kroma"
+    },
+    {
+        "Token": "dot",
+        "Nombre": "Polkadot",
+        "Market cap.": 8774953828,
+        "Price": 6.48,
+        "Clase": 4,
+        "gecko_id": "polkadot"
+    },
+    {
+        "Token": "tt",
+        "Nombre": "ThunderCore",
+        "Market cap.": 45671388,
+        "Price": 0.00428176,
+        "Clase": 4,
+        "gecko_id": "thunder-token"
+    },
+    {
+        "Token": "zen",
+        "Nombre": "Horizen EON",
+        "Market cap.": 123446450,
+        "Price": 8.26,
+        "Clase": 4,
+        "gecko_id": "zencash"
+    },
+    {
+        "Token": "sys",
+        "Nombre": "Syscoin",
+        "Market cap.": 151024085,
+        "Price": 0.194896,
+        "Clase": 4,
+        "gecko_id": "syscoin"
+    },
+    {
+        "Token": "xin",
+        "Nombre": "Mixin",
+        "Market cap.": 0.0,
+        "Price": 185.79,
+        "Clase": 4,
+        "gecko_id": "mixin"
+    },
+    {
+        "Token": "chz",
+        "Nombre": "Chiliz",
+        "Market cap.": 983279250,
+        "Price": 0.110231,
+        "Clase": 4,
+        "gecko_id": "chiliz"
+    },
+    {
+        "Token": "kek",
+        "Nombre": "Kekchain",
+        "Market cap.": 0.0,
+        "Price": 0.00010333,
+        "Clase": 4,
+        "gecko_id": "kekchain"
+    },
+    {
+        "Token": "hydra",
+        "Nombre": "Hydra",
+        "Market cap.": 16279286,
+        "Price": 0.682658,
+        "Clase": 4,
+        "gecko_id": "hydra"
+    },
+    {
+        "Token": "rbtc",
+        "Nombre": "Rootstock",
+        "Market cap.": 0.0,
+        "Price": 59988,
+        "Clase": 4,
+        "gecko_id": "rootstock"
+    },
+    {
+        "Token": "wan",
+        "Nombre": "Wanchain",
+        "Market cap.": 49198899,
+        "Price": 0.248765,
+        "Clase": 4,
+        "gecko_id": "wanchain"
+    },
+    {
+        "Token": "sei",
+        "Nombre": "Sei",
+        "Market cap.": 1523250205,
+        "Price": 0.545494,
+        "Clase": 4,
+        "gecko_id": "sei-network"
+    },
+    {
+        "Token": "lunc",
+        "Nombre": "Terra Classic",
+        "Market cap.": 575418648,
+        "Price": 9.918e-05,
+        "Clase": 4,
+        "gecko_id": "terra-luna"
+    },
+    {
+        "Token": "eos",
+        "Nombre": "EOS",
+        "Market cap.": 866102448,
+        "Price": 0.754014,
+        "Clase": 4,
+        "gecko_id": "eos"
+    },
+    {
+        "Token": "dc",
+        "Nombre": "Dogechain",
+        "Market cap.": 15133789,
+        "Price": 0.00053823,
+        "Clase": 4,
+        "gecko_id": "dogechain"
+    },
+    {
+        "Token": "alph",
+        "Nombre": "Alephium",
+        "Market cap.": 166350902,
+        "Price": 2.17,
+        "Clase": 4,
+        "gecko_id": "alephium"
+    },
+    {
+        "Token": "cacao",
+        "Nombre": "Mayachain",
+        "Market cap.": 93045658,
+        "Price": 0.929806,
+        "Clase": 4,
+        "gecko_id": "cacao"
+    },
+    {
+        "Token": "hpb",
+        "Nombre": "HPB",
+        "Market cap.": 0.0,
+        "Price": 0.00822964,
+        "Clase": 4,
+        "gecko_id": "high-performance-blockchain"
+    },
+    {
+        "Token": "clv",
+        "Nombre": "CLV",
+        "Market cap.": 55024750,
+        "Price": 0.068437,
+        "Clase": 4,
+        "gecko_id": "clover-finance"
+    },
+    {
+        "Token": "mtv",
+        "Nombre": "MultiVAC",
+        "Market cap.": 4445559,
+        "Price": 0.00128832,
+        "Clase": 4,
+        "gecko_id": "multivac"
+    },
+    {
+        "Token": "gno",
+        "Nombre": "Gnosis",
+        "Market cap.": 808185926,
+        "Price": 312.38,
+        "Clase": 4,
+        "gecko_id": "gnosis"
+    },
+    {
+        "Token": "nls",
+        "Nombre": "Nolus",
+        "Market cap.": 10881354,
+        "Price": 0.04650727,
+        "Clase": 4,
+        "gecko_id": "nolus"
+    },
+    {
+        "Token": "nrg",
+        "Nombre": "Energi",
+        "Market cap.": 8546092,
+        "Price": 0.112128,
+        "Clase": 4,
+        "gecko_id": "energi"
+    },
+    {
+        "Token": "sx",
+        "Nombre": "SXnetwork",
+        "Market cap.": 0.0,
+        "Price": 0.102879,
+        "Clase": 4,
+        "gecko_id": "sx-network"
+    },
+    {
+        "Token": "juno",
+        "Nombre": "Juno",
+        "Market cap.": 16382882,
+        "Price": 0.206035,
+        "Clase": 4,
+        "gecko_id": "juno-network"
+    },
+    {
+        "Token": "ton",
+        "Nombre": "TON",
+        "Market cap.": 17569525891,
+        "Price": 5.06,
+        "Clase": 4,
+        "gecko_id": "the-open-network"
+    },
+    {
+        "Token": "glmr",
+        "Nombre": "Moonbeam",
+        "Market cap.": 241785789,
+        "Price": 0.281462,
+        "Clase": 4,
+        "gecko_id": "moonbeam"
+    },
+    {
+        "Token": "gens",
+        "Nombre": "Genshiro",
+        "Market cap.": 0.0,
+        "Price": 0.00013433,
+        "Clase": 4,
+        "gecko_id": "genshiro"
+    },
+    {
+        "Token": "clo",
+        "Nombre": "Callisto",
+        "Market cap.": 740108,
+        "Price": 0.00022516,
+        "Clase": 4,
+        "gecko_id": "callisto"
+    },
+    {
+        "Token": "aura",
+        "Nombre": "Aura Network",
+        "Market cap.": 11602786,
+        "Price": 0.03643787,
+        "Clase": 4,
+        "gecko_id": "aura-network"
+    },
+    {
+        "Token": "stx",
+        "Nombre": "Stacks",
+        "Market cap.": 3000475831,
+        "Price": 2.06,
+        "Clase": 4,
+        "gecko_id": "blockstack"
+    },
+    {
+        "Token": "libre",
+        "Nombre": "Libre",
+        "Market cap.": 1800794,
+        "Price": 0.00081448,
+        "Clase": 4,
+        "gecko_id": "libre"
+    },
+    {
+        "Token": "rune",
+        "Nombre": "Thorchain",
+        "Market cap.": 1634423383,
+        "Price": 4.87,
+        "Clase": 4,
+        "gecko_id": "thorchain"
+    },
+    {
+        "Token": "ftn",
+        "Nombre": "Bahamut",
+        "Market cap.": 612831500,
+        "Price": 1.97,
+        "Clase": 4,
+        "gecko_id": "fasttoken"
+    },
+    {
+        "Token": "cre",
+        "Nombre": "Crescent",
+        "Market cap.": 117789,
+        "Price": 0.00026257,
+        "Clase": 4,
+        "gecko_id": "crescent-network"
+    },
+    {
+        "Token": "icx",
+        "Nombre": "Icon",
+        "Market cap.": 214312986,
+        "Price": 0.216275,
+        "Clase": 4,
+        "gecko_id": "icon"
+    },
+    {
+        "Token": "luna",
+        "Nombre": "Terra2",
+        "Market cap.": 381207669,
+        "Price": 0.554227,
+        "Clase": 4,
+        "gecko_id": "terra-luna-2"
+    },
+    {
+        "Token": "neo",
+        "Nombre": "NEO",
+        "Market cap.": 1150848115,
+        "Price": 16.32,
+        "Clase": 4,
+        "gecko_id": "neo"
+    },
+    {
+        "Token": "dash",
+        "Nombre": "Dash",
+        "Market cap.": 330676786,
+        "Price": 28.05,
+        "Clase": 4,
+        "gecko_id": "dash"
+    },
+    {
+        "Token": "aca",
+        "Nombre": "Acala",
+        "Market cap.": 101583873,
+        "Price": 0.105331,
+        "Clase": 4,
+        "gecko_id": "acala"
+    },
+    {
+        "Token": "dis",
+        "Nombre": "ETHF",
+        "Market cap.": 0.0,
+        "Price": 0.03571901,
+        "Clase": 4,
+        "gecko_id": "ethereumfair"
+    },
+    {
+        "Token": "theta",
+        "Nombre": "Theta",
+        "Market cap.": 2009396413,
+        "Price": 2.0,
+        "Clase": 4,
+        "gecko_id": "theta-token"
+    },
+    {
+        "Token": "cmdx",
+        "Nombre": "Comdex",
+        "Market cap.": 3852701,
+        "Price": 0.02289744,
+        "Clase": 4,
+        "gecko_id": "comdex"
+    },
+    {
+        "Token": "smr",
+        "Nombre": "ShimmerEVM",
+        "Market cap.": 0.0,
+        "Price": 0.01054403,
+        "Clase": 4,
+        "gecko_id": "shimmer"
+    },
+    {
+        "Token": "huahua",
+        "Nombre": "Chihuahua",
+        "Market cap.": 10812239,
+        "Price": 0.00010607,
+        "Clase": 3,
+        "gecko_id": "chihuahua-token"
+    },
+    {
+        "Token": "cfx",
+        "Nombre": "Conflux",
+        "Market cap.": 847057377,
+        "Price": 0.215115,
+        "Clase": 4,
+        "gecko_id": "conflux-token"
+    },
+    {
+        "Token": "xrp",
+        "Nombre": "Ripple",
+        "Market cap.": 27786225218,
+        "Price": 0.503297,
+        "Clase": 4,
+        "gecko_id": "ripple"
+    },
+    {
+        "Token": "stc",
+        "Nombre": "Starcoin",
+        "Market cap.": 203802,
+        "Price": 0.00068226,
+        "Clase": 4,
+        "gecko_id": "starcoin"
+    },
+    {
+        "Token": "klay",
+        "Nombre": "Klaytn",
+        "Market cap.": 628354838,
+        "Price": 0.173026,
+        "Clase": 4,
+        "gecko_id": "klay-token"
+    },
+    {
+        "Token": "ewt",
+        "Nombre": "EnergyWeb",
+        "Market cap.": 130021978,
+        "Price": 2.57,
+        "Clase": 4,
+        "gecko_id": "energy-web-token"
+    },
+    {
+        "Token": "okt",
+        "Nombre": "OKTChain",
+        "Market cap.": 238498070,
+        "Price": 13.36,
+        "Clase": 4,
+        "gecko_id": "oec-token"
+    },
+    {
+        "Token": "bch",
+        "Nombre": "Bitcoincash",
+        "Market cap.": 8464988442,
+        "Price": 429.63,
+        "Clase": 4,
+        "gecko_id": "bitcoin-cash"
+    },
+    {
+        "Token": null,
+        "Nombre": "Nova Network",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "supernova"
+    },
+    {
+        "Token": "geth",
+        "Nombre": "Goerli",
+        "Market cap.": 0.0,
+        "Price": 0.03562505,
+        "Clase": 4,
+        "gecko_id": "goerli-eth"
+    },
+    {
+        "Token": "dydx",
+        "Nombre": "dYdX",
+        "Market cap.": 1019027038,
+        "Price": 2.03,
+        "Clase": 4,
+        "gecko_id": "dydx-chain"
+    },
+    {
+        "Token": "xrd",
+        "Nombre": "Radix",
+        "Market cap.": 477626058,
+        "Price": 0.04577665,
+        "Clase": 4,
+        "gecko_id": "radix"
+    },
+    {
+        "Token": null,
+        "Nombre": "Crab",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "darwinia-crab-network"
+    },
+    {
+        "Token": "movr",
+        "Nombre": "Moonriver",
+        "Market cap.": 107938036,
+        "Price": 12.07,
+        "Clase": 4,
+        "gecko_id": "moonriver"
+    },
+    {
+        "Token": "vet",
+        "Nombre": "VeChain",
+        "Market cap.": 2592733247,
+        "Price": 0.03567417,
+        "Clase": 4,
+        "gecko_id": "vechain"
+    },
+    {
+        "Token": "loop",
+        "Nombre": "Loop",
+        "Market cap.": 0.0,
+        "Price": 0.055686,
+        "Clase": 4,
+        "gecko_id": "loopnetwork"
+    },
+    {
+        "Token": "astr",
+        "Nombre": "Astar",
+        "Market cap.": 513123348,
+        "Price": 0.091041,
+        "Clase": 4,
+        "gecko_id": "astar"
+    },
+    {
+        "Token": "xor",
+        "Nombre": "Sora",
+        "Market cap.": 996880,
+        "Price": 3.356e-05,
+        "Clase": 4,
+        "gecko_id": "sora"
+    },
+    {
+        "Token": "neon",
+        "Nombre": "Neon",
+        "Market cap.": 59848913,
+        "Price": 1.036,
+        "Clase": 4,
+        "gecko_id": "neon"
+    },
+    {
+        "Token": "trx",
+        "Nombre": "Tron",
+        "Market cap.": 10503368593,
+        "Price": 0.119897,
+        "Clase": 4,
+        "gecko_id": "tron"
+    },
+    {
+        "Token": "evmos",
+        "Nombre": "Evmos",
+        "Market cap.": 21918723,
+        "Price": 0.04384646,
+        "Clase": 4,
+        "gecko_id": "evmos"
+    },
+    {
+        "Token": "aurora",
+        "Nombre": "Aurora",
+        "Market cap.": 105720781,
+        "Price": 0.233259,
+        "Clase": 4,
+        "gecko_id": "aurora-near"
+    },
+    {
+        "Token": "eq",
+        "Nombre": "Equilibrium",
+        "Market cap.": 0.0,
+        "Price": 3.877e-05,
+        "Clase": 4,
+        "gecko_id": "equilibrium-token"
+    },
+    {
+        "Token": "polis",
+        "Nombre": "Polis",
+        "Market cap.": 0.0,
+        "Price": 14.06,
+        "Clase": 4,
+        "gecko_id": "polis"
+    },
+    {
+        "Token": "boba",
+        "Nombre": "Boba",
+        "Market cap.": 138225217,
+        "Price": 0.364054,
+        "Clase": 4,
+        "gecko_id": "boba-network"
+    },
+    {
+        "Token": "ever",
+        "Nombre": "Everscale",
+        "Market cap.": 64908125,
+        "Price": 0.03299207,
+        "Clase": 4,
+        "gecko_id": "everscale"
+    },
+    {
+        "Token": "tlos",
+        "Nombre": "Telos",
+        "Market cap.": 135180353,
+        "Price": 0.324554,
+        "Clase": 4,
+        "gecko_id": "telos"
+    },
+    {
+        "Token": "strk",
+        "Nombre": "Starknet",
+        "Market cap.": 890264822,
+        "Price": 1.22,
+        "Clase": 4,
+        "gecko_id": "starknet"
+    },
+    {
+        "Token": "eth",
+        "Nombre": "Ethereum",
+        "Market cap.": 366319320322,
+        "Price": 3006.9,
+        "Clase": 4,
+        "gecko_id": "ethereum"
+    },
+    {
+        "Token": "tenet",
+        "Nombre": "Tenet",
+        "Market cap.": 23951298,
+        "Price": 0.063403,
+        "Clase": 4,
+        "gecko_id": "tenet-1b000f7b-59cb-4e06-89ce-d62b32d362b9"
+    },
+    {
+        "Token": "xtz",
+        "Nombre": "Tezos",
+        "Market cap.": 900247350,
+        "Price": 0.918299,
+        "Clase": 4,
+        "gecko_id": "tezos"
+    },
+    {
+        "Token": "bnb",
+        "Nombre": "BSC",
+        "Market cap.": 88352483758,
+        "Price": 574.6,
+        "Clase": 4,
+        "gecko_id": "binancecoin"
+    },
+    {
+        "Token": "mtrg",
+        "Nombre": "Meter",
+        "Market cap.": 48885754,
+        "Price": 1.36,
+        "Clase": 4,
+        "gecko_id": "meter"
+    },
+    {
+        "Token": "venom",
+        "Nombre": "Venom",
+        "Market cap.": 557984439,
+        "Price": 0.339027,
+        "Clase": 4,
+        "gecko_id": "venom"
+    },
+    {
+        "Token": "bfc",
+        "Nombre": "Bifrost Network",
+        "Market cap.": 78965484,
+        "Price": 0.057029,
+        "Clase": 4,
+        "gecko_id": "bifrost"
+    },
+    {
+        "Token": "core",
+        "Nombre": "CORE",
+        "Market cap.": 1680062704,
+        "Price": 1.9,
+        "Clase": 4,
+        "gecko_id": "coredaoorg"
+    },
+    {
+        "Token": "flow",
+        "Nombre": "Flow",
+        "Market cap.": 1264218940,
+        "Price": 0.842935,
+        "Clase": 4,
+        "gecko_id": "flow"
+    },
+    {
+        "Token": "kcs",
+        "Nombre": "KCC",
+        "Market cap.": 919919737,
+        "Price": 9.6,
+        "Clase": 4,
+        "gecko_id": "kucoin-shares"
+    },
+    {
+        "Token": "gbyte",
+        "Nombre": "Obyte",
+        "Market cap.": 8088169,
+        "Price": 9.42,
+        "Clase": 4,
+        "gecko_id": "byteball"
+    },
+    {
+        "Token": null,
+        "Nombre": "Tlchain",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "tlchain"
+    },
+    {
+        "Token": "iotx",
+        "Nombre": "IoTeX",
+        "Market cap.": 500872128,
+        "Price": 0.05316,
+        "Clase": 4,
+        "gecko_id": "iotex"
+    },
+    {
+        "Token": "ux",
+        "Nombre": "UX",
+        "Market cap.": 12894742,
+        "Price": 0.00291127,
+        "Clase": 4,
+        "gecko_id": "umee"
+    },
+    {
+        "Token": "amb",
+        "Nombre": "AirDAO",
+        "Market cap.": 22060383,
+        "Price": 0.00778256,
+        "Clase": 4,
+        "gecko_id": "amber"
+    },
+    {
+        "Token": "mnt",
+        "Nombre": "Mantle",
+        "Market cap.": 3069334726,
+        "Price": 0.940598,
+        "Clase": 4,
+        "gecko_id": "mantle"
+    },
+    {
+        "Token": "zyx",
+        "Nombre": "ZYX",
+        "Market cap.": 848433,
+        "Price": 0.00684145,
+        "Clase": 4,
+        "gecko_id": "zyx"
+    },
+    {
+        "Token": "dxt",
+        "Nombre": "Dexit",
+        "Market cap.": 0.0,
+        "Price": 3.579e-05,
+        "Clase": 4,
+        "gecko_id": "dexit-finance"
+    },
+    {
+        "Token": "ong",
+        "Nombre": "OntologyEVM",
+        "Market cap.": 210551383,
+        "Price": 0.567442,
+        "Clase": 4,
+        "gecko_id": "ong"
+    },
+    {
+        "Token": "ada",
+        "Nombre": "Cardano",
+        "Market cap.": 15578256549,
+        "Price": 0.441018,
+        "Clase": 4,
+        "gecko_id": "cardano"
+    },
+    {
+        "Token": "bnc",
+        "Nombre": "Bifrost",
+        "Market cap.": 19444175,
+        "Price": 0.453383,
+        "Clase": 4,
+        "gecko_id": "bifrost-native-coin"
+    },
+    {
+        "Token": "orai",
+        "Nombre": "Oraichain",
+        "Market cap.": 154005070,
+        "Price": 9.66,
+        "Clase": 0,
+        "gecko_id": "oraichain-token"
+    },
+    {
+        "Token": "degen",
+        "Nombre": "Degen",
+        "Market cap.": 225301179,
+        "Price": 0.01789087,
+        "Clase": 3,
+        "gecko_id": "degen-base"
+    },
+    {
+        "Token": "canto",
+        "Nombre": "Canto",
+        "Market cap.": 85098587,
+        "Price": 0.142746,
+        "Clase": 2,
+        "gecko_id": "canto"
+    },
+    {
+        "Token": "sol",
+        "Nombre": "Solana",
+        "Market cap.": 56515542246,
+        "Price": 126.32,
+        "Clase": 4,
+        "gecko_id": "solana"
+    },
+    {
+        "Token": "arch",
+        "Nombre": "Archway",
+        "Market cap.": 40034153,
+        "Price": 0.126696,
+        "Clase": 4,
+        "gecko_id": "archway"
+    },
+    {
+        "Token": "space",
+        "Nombre": "MVC",
+        "Market cap.": 29039367,
+        "Price": 10.91,
+        "Clase": 4,
+        "gecko_id": "microvisionchain"
+    },
+    {
+        "Token": "ht",
+        "Nombre": "Heco",
+        "Market cap.": 91693509,
+        "Price": 0.574267,
+        "Clase": 4,
+        "gecko_id": "huobi-token"
+    },
+    {
+        "Token": "xpla",
+        "Nombre": "XPLA",
+        "Market cap.": 73134182,
+        "Price": 0.136503,
+        "Clase": 1,
+        "gecko_id": "xpla"
+    },
+    {
+        "Token": "btc",
+        "Nombre": "Bitcoin",
+        "Market cap.": 1185334006216,
+        "Price": 60202,
+        "Clase": 4,
+        "gecko_id": "bitcoin"
+    },
+    {
+        "Token": "meer",
+        "Nombre": "MEER",
+        "Market cap.": 0.0,
+        "Price": 0.02126257,
+        "Clase": 4,
+        "gecko_id": "qitmeer-network"
+    },
+    {
+        "Token": null,
+        "Nombre": "Hoo",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "hoo-token"
+    },
+    {
+        "Token": "onus",
+        "Nombre": "Onus",
+        "Market cap.": 0.0,
+        "Price": 0.524814,
+        "Clase": 4,
+        "gecko_id": "onus"
+    },
+    {
+        "Token": "fon",
+        "Nombre": "FSC",
+        "Market cap.": 0.0,
+        "Price": 1.67,
+        "Clase": 4,
+        "gecko_id": "fonsmartchain"
+    },
+    {
+        "Token": "celo",
+        "Nombre": "Celo",
+        "Market cap.": 403120712,
+        "Price": 0.751119,
+        "Clase": 4,
+        "gecko_id": "celo"
+    },
+    {
+        "Token": "fsn",
+        "Nombre": "Fusion",
+        "Market cap.": 11237304,
+        "Price": 0.147098,
+        "Clase": 4,
+        "gecko_id": "fsn"
+    },
+    {
+        "Token": "fuse",
+        "Nombre": "Fuse",
+        "Market cap.": 16006860,
+        "Price": 0.063659,
+        "Clase": 4,
+        "gecko_id": "fuse-network-token"
+    },
+    {
+        "Token": "inj",
+        "Nombre": "Injective",
+        "Market cap.": 2115995527,
+        "Price": 23.51,
+        "Clase": 4,
+        "gecko_id": "injective-protocol"
+    },
+    {
+        "Token": "etc",
+        "Nombre": "EthereumClassic",
+        "Market cap.": 3717651718,
+        "Price": 25.3,
+        "Clase": 4,
+        "gecko_id": "ethereum-classic"
+    },
+    {
+        "Token": "doge",
+        "Nombre": "Doge",
+        "Market cap.": 19048250739,
+        "Price": 0.132295,
+        "Clase": 3,
+        "gecko_id": "dogecoin"
+    },
+    {
+        "Token": "wemix",
+        "Nombre": "WEMIX3.0",
+        "Market cap.": 544029377,
+        "Price": 1.52,
+        "Clase": 4,
+        "gecko_id": "wemix-token"
+    },
+    {
+        "Token": "near",
+        "Nombre": "Near",
+        "Market cap.": 6572059317,
+        "Price": 6.17,
+        "Clase": 4,
+        "gecko_id": "near"
+    },
+    {
+        "Token": "kuji",
+        "Nombre": "Kujira",
+        "Market cap.": 215090325,
+        "Price": 1.76,
+        "Clase": 4,
+        "gecko_id": "kujira"
+    },
+    {
+        "Token": "cmp",
+        "Nombre": "CMP",
+        "Market cap.": 1163376,
+        "Price": 0.00613815,
+        "Clase": 4,
+        "gecko_id": "caduceus"
+    },
+    {
+        "Token": null,
+        "Nombre": "Cube",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "cube-network"
+    },
+    {
+        "Token": "vlx",
+        "Nombre": "Velas",
+        "Market cap.": 39154323,
+        "Price": 0.0151216,
+        "Clase": 4,
+        "gecko_id": "velas"
+    },
+    {
+        "Token": "op",
+        "Nombre": "Optimism",
+        "Market cap.": 2650782856,
+        "Price": 2.54,
+        "Clase": 4,
+        "gecko_id": "optimism"
+    },
+    {
+        "Token": "xai",
+        "Nombre": "Xai",
+        "Market cap.": 185579068,
+        "Price": 0.669457,
+        "Clase": 1,
+        "gecko_id": "xai-blockchain"
+    },
+    {
+        "Token": "plq",
+        "Nombre": "Planq",
+        "Market cap.": 3550365,
+        "Price": 0.03715003,
+        "Clase": 4,
+        "gecko_id": "planq"
+    },
+    {
+        "Token": "ltc",
+        "Nombre": "Litecoin",
+        "Market cap.": 5913969814,
+        "Price": 79.34,
+        "Clase": 4,
+        "gecko_id": "litecoin"
+    },
+    {
+        "Token": "egld",
+        "Nombre": "MultiversX",
+        "Market cap.": 1028751298,
+        "Price": 38.25,
+        "Clase": 4,
+        "gecko_id": "elrond-erd-2"
+    },
+    {
+        "Token": "xpr",
+        "Nombre": "Proton",
+        "Market cap.": 26661856,
+        "Price": 0.00103986,
+        "Clase": 4,
+        "gecko_id": "proton"
+    },
+    {
+        "Token": "xdc",
+        "Nombre": "XDC",
+        "Market cap.": 487872402,
+        "Price": 0.03504221,
+        "Clase": 2,
+        "gecko_id": "xdce-crowd-sale"
+    },
+    {
+        "Token": null,
+        "Nombre": "Bitindi",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "bitindi-chain"
+    },
+    {
+        "Token": "ont",
+        "Nombre": "Ontology",
+        "Market cap.": 324395711,
+        "Price": 0.359628,
+        "Clase": 4,
+        "gecko_id": "ontology"
+    },
+    {
+        "Token": "scrt",
+        "Nombre": "Secret",
+        "Market cap.": 101943856,
+        "Price": 0.375683,
+        "Clase": 4,
+        "gecko_id": "secret"
+    },
+    {
+        "Token": "matic",
+        "Nombre": "Polygon",
+        "Market cap.": 6211230200,
+        "Price": 0.669555,
+        "Clase": 4,
+        "gecko_id": "matic-network"
+    },
+    {
+        "Token": "metis",
+        "Nombre": "Metis",
+        "Market cap.": 330695293,
+        "Price": 58.74,
+        "Clase": 4,
+        "gecko_id": "metis-token"
+    },
+    {
+        "Token": "btn",
+        "Nombre": "Bitnet",
+        "Market cap.": 380491,
+        "Price": 0.188004,
+        "Clase": 4,
+        "gecko_id": "bitnet"
+    },
+    {
+        "Token": "whale",
+        "Nombre": "Migaloo",
+        "Market cap.": 8571663,
+        "Price": 0.02024862,
+        "Clase": 4,
+        "gecko_id": "white-whale"
+    },
+    {
+        "Token": "sgb",
+        "Nombre": "Songbird",
+        "Market cap.": 141975047,
+        "Price": 0.00956356,
+        "Clase": 4,
+        "gecko_id": "songbird"
+    },
+    {
+        "Token": "ftm",
+        "Nombre": "Fantom",
+        "Market cap.": 1865045783,
+        "Price": 0.664655,
+        "Clase": 4,
+        "gecko_id": "fantom"
+    },
+    {
+        "Token": "erg",
+        "Nombre": "Ergo",
+        "Market cap.": 93752938,
+        "Price": 1.25,
+        "Clase": 4,
+        "gecko_id": "ergo"
+    },
+    {
+        "Token": "jewel",
+        "Nombre": "DFK",
+        "Market cap.": 15873901,
+        "Price": 0.138298,
+        "Clase": 1,
+        "gecko_id": "defi-kingdoms"
+    },
+    {
+        "Token": "dfi",
+        "Nombre": "DefiChain",
+        "Market cap.": 54423230,
+        "Price": 0.062287,
+        "Clase": 2,
+        "gecko_id": "defichain"
+    },
+    {
+        "Token": "mapo",
+        "Nombre": "MAP Protocol",
+        "Market cap.": 81537822,
+        "Price": 0.01859229,
+        "Clase": 4,
+        "gecko_id": "marcopolo"
+    },
+    {
+        "Token": "apt",
+        "Nombre": "Aptos",
+        "Market cap.": 3675207408,
+        "Price": 8.62,
+        "Clase": 4,
+        "gecko_id": "aptos"
+    },
+    {
+        "Token": "brock",
+        "Nombre": "Bitrock",
+        "Market cap.": 11416654,
+        "Price": 0.114558,
+        "Clase": 4,
+        "gecko_id": "bitrock"
+    },
+    {
+        "Token": "rpg",
+        "Nombre": "Rangers",
+        "Market cap.": 18882242,
+        "Price": 2.04,
+        "Clase": 4,
+        "gecko_id": "rangers-protocol-gas"
+    },
+    {
+        "Token": "ethw",
+        "Nombre": "EthereumPoW",
+        "Market cap.": 385367239,
+        "Price": 3.58,
+        "Clase": 4,
+        "gecko_id": "ethereum-pow-iou"
+    },
+    {
+        "Token": "nii",
+        "Nombre": "Nahmii",
+        "Market cap.": 0.0,
+        "Price": 0.00038215,
+        "Clase": 4,
+        "gecko_id": "nahmii"
+    },
+    {
+        "Token": "rose",
+        "Nombre": "Oasis Emerald",
+        "Market cap.": 600013294,
+        "Price": 0.089315,
+        "Clase": 4,
+        "gecko_id": "oasis-network"
+    },
+    {
+        "Token": "arb",
+        "Nombre": "Arbitrum",
+        "Market cap.": 2713046330,
+        "Price": 1.024,
+        "Clase": 4,
+        "gecko_id": "arbitrum"
+    },
+    {
+        "Token": "nuls",
+        "Nombre": "Nuls",
+        "Market cap.": 61697790,
+        "Price": 0.569422,
+        "Clase": 4,
+        "gecko_id": "nuls"
+    },
+    {
+        "Token": "avax",
+        "Nombre": "Avalanche",
+        "Market cap.": 12366452629,
+        "Price": 32.66,
+        "Clase": 4,
+        "gecko_id": "avalanche-2"
+    },
+    {
+        "Token": "la",
+        "Nombre": "Lachain",
+        "Market cap.": 2165592,
+        "Price": 0.03566512,
+        "Clase": 4,
+        "gecko_id": "latoken"
+    },
+    {
+        "Token": "ubq",
+        "Nombre": "Ubiq",
+        "Market cap.": 350155,
+        "Price": 0.00729758,
+        "Clase": 4,
+        "gecko_id": "ubiq"
+    },
+    {
+        "Token": "omax",
+        "Nombre": "Omax",
+        "Market cap.": 6173792,
+        "Price": 0.00068608,
+        "Clase": 4,
+        "gecko_id": "omax-token"
+    },
+    {
+        "Token": null,
+        "Nombre": "Vision",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "vision-metaverse"
+    },
+    {
+        "Token": "lac",
+        "Nombre": "LaChain Network",
+        "Market cap.": null,
+        "Price": null,
+        "Clase": 4,
+        "gecko_id": "la-coin"
+    },
+    {
+        "Token": "go",
+        "Nombre": "GoChain",
+        "Market cap.": 5823225,
+        "Price": 0.00462844,
+        "Clase": 4,
+        "gecko_id": "gochain"
+    },
+    {
+        "Token": "spex",
+        "Nombre": "Step",
+        "Market cap.": 75208,
+        "Price": 0.00062673,
+        "Clase": 4,
+        "gecko_id": "stepex"
+    },
+    {
+        "Token": "sdn",
+        "Nombre": "Shiden",
+        "Market cap.": 13738949,
+        "Price": 0.211648,
+        "Clase": 4,
+        "gecko_id": "shiden"
+    },
+    {
+        "Token": "rei",
+        "Nombre": "REI",
+        "Market cap.": 72964207,
+        "Price": 0.075286,
+        "Clase": 4,
+        "gecko_id": "rei-network"
+    }
+]
