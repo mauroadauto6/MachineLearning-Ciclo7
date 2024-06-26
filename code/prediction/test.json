@@ -1,0 +1,53 @@
+{
+    "dash": [
+        {
+            "date": "20/11/2023",
+            "Price": 30.681024475121284,
+            "Market cap": 354550471.2840382,
+            "tvl": 254310.427637019,
+            "Token": "dash",
+            "Nombre": "Dash",
+            "Clase": 4,
+            "correlacion": 0,
+            "price_trend": 0.02660864840832211,
+            "market_cap_trend": 0.027426441763779952,
+            "price_volatility": 0.8799843722200951,
+            "tvl_trend": 0.042805944428423226,
+            "price_increase": 1
+        }
+    ],
+    "bch": [
+        {
+            "date": "06/10/2023",
+            "Price": 231.49366814832624,
+            "Market cap": 4521826657.934374,
+            "tvl": 2846158.0037235776,
+            "Token": "bch",
+            "Nombre": "Bitcoincash",
+            "Clase": 4,
+            "correlacion": 0,
+            "price_trend": -0.00901259523994491,
+            "market_cap_trend": -0.00851257616023271,
+            "price_volatility": 0.0,
+            "tvl_trend": -0.014063051021364514,
+            "price_increase": 0
+        }
+    ],
+    "doge": [
+        {
+            "date": "07/10/2023",
+            "Price": 0.06145513833447826,
+            "Market cap": 8681772024.209925,
+            "tvl": 1303461.6270103962,
+            "Token": "doge",
+            "Nombre": "Doge",
+            "Clase": 3,
+            "correlacion": 0,
+            "price_trend": 0.008739156564324224,
+            "market_cap_trend": 0.007976553455935065,
+            "price_volatility": 0.0,
+            "tvl_trend": -0.09790864636770957,
+            "price_increase": 1
+        }
+    ]
+}

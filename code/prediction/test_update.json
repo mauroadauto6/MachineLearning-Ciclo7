@@ -1,0 +1,36 @@
+{
+    "binancecoin": [
+        {
+            "date": "01/05/2024",
+            "Price": 578.1898622510048,
+            "Market cap": 89108408710.81897,
+            "tvl": 5182517449.136991,
+            "Token": "bnb",
+            "Nombre": "BSC",
+            "Clase": 4,
+            "correlacion": 0,
+            "price_trend": -0.025384363492256146,
+            "market_cap_trend": -0.025212482050216867,
+            "price_volatility": 11.402532015662015,
+            "tvl_trend": -0.02008529959987526,
+            "price_increase": 0
+        }
+    ],
+    "tron": [
+        {
+            "date": "01/05/2024",
+            "Price": 0.1193410126243868,
+            "Market cap": 10475029742.468359,
+            "tvl": 8085358408.97308,
+            "Token": "trx",
+            "Nombre": "Tron",
+            "Clase": 4,
+            "correlacion": 0,
+            "price_trend": 0.0029993453093741795,
+            "market_cap_trend": 0.005398606244319204,
+            "price_volatility": 0.00267191316033465,
+            "tvl_trend": -0.017284378002149103,
+            "price_increase": 1
+        }
+    ]
+}
